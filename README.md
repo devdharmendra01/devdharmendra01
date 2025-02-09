@@ -8,12 +8,8 @@
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I love debugging more than coding! 😆**  
 
-## 🛠️ Tech Stack  
-- **Languages:** JavaScript, Python, Java, C++  
-- **Frontend:** React.js, Next.js, HTML, CSS, TailwindCSS  
-- **Backend:** Node.js, Express.js, Django  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Tools & Platforms:** Git, GitHub, Docker, Firebase  
+
+
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdharmendra01&show_icons=true&theme=radical)  
